@@ -1,6 +1,6 @@
-# Brute-force Bitcoin Wallet Unlock
+# Brute-force Bitcoin Wallet Crack
 
-A boring project tries to open random wallet with random private key.
+A project tries to open random wallet with random private key, to check the balance of it.
 
 This code can also be used for Ethereum wallet.
 
